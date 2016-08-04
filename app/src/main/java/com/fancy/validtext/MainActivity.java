@@ -12,7 +12,7 @@ import android.widget.Toast;
 import com.fancy.validlib.ValidText;
 
 /**
- * Created by sunflowerseat on 2016/8/4.
+ * Created by sunflowerseat on 2016/8/4 .
  */
 public class MainActivity extends AppCompatActivity {
 
