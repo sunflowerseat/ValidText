@@ -1,7 +1,7 @@
 # ValidText
 这是一个随机生成验证码的自定义控件。
 效果图如下：
-![alt text](https://raw.githubusercontent.com/sunflowerseat/ValidText/master/preview/validtext.png "Title")
+![alt text](https://github.com/sunflowerseat/ValidText/blob/master/preview/validtext.png "Title")
 
 使用方法
 ```
