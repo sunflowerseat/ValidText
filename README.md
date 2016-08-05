@@ -3,6 +3,10 @@
 效果图如下：
 ![alt text](https://github.com/sunflowerseat/ValidText/blob/master/preview/validActivity.png "Title")
 
+已上传到jcenter，添加依赖方式：
+
+`compile 'com.fancy.library:validtext:1.0.0'`
+
 使用方法
 ```
 <com.fancy.validlib.ValidText
